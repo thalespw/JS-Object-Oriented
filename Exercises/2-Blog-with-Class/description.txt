@@ -1,0 +1,5 @@
+Create an app in Js that simulates a blog using classes and associations.
+
+Create a Post and Comment class, where an instance of Post can receive several comments. Post instances must also have a specific method for adding comments to them.
+
+Must also create an Author class, and Post class objects must also have an Author class object, which is the author of the post. In addition, objects of the Author class must also have an array of posts (objects of the Post class) and a specific method for creating posts, which must create an instance using that author itself, include the post in the array and then return the post created.

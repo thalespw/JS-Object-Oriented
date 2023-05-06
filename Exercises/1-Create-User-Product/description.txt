@@ -1,0 +1,2 @@
+Simply create two classes:
+User and Product
